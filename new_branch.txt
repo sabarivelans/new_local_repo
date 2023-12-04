@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello to  branch named as sub-branch
 
+=======
+
+o meet you
+>>>>>>> d68b216750f2bf20e9efb84954f6b8e9c6fc54cf
